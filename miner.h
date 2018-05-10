@@ -701,6 +701,7 @@ struct stratum_ctx {
 
 	int rpc2;
 	int is_equihash;
+	int is_progpow;
 	int srvtime_diff;
 };
 
